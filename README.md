@@ -9,8 +9,6 @@ The source code is private; this repository holds no source.
 
     curl -fsSL https://github.com/crasma-dev/crasma-releases/releases/latest/download/install-macos.sh | bash
 
-**Windows 11 (x64)**, in PowerShell:
+Or download the `.dmg` from the [latest release](https://github.com/crasma-dev/crasma-releases/releases/latest).
 
-    irm https://github.com/crasma-dev/crasma-releases/releases/latest/download/install-windows.ps1 | iex
-
-Or download the installer from the [latest release](https://github.com/crasma-dev/crasma-releases/releases/latest).
+**Windows** is not available yet.
